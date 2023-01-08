@@ -1,0 +1,51 @@
+[0108/145522.139:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 19
+[0108/145539.860:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0108/145539.860:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0108/145539.860:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0108/145539.860:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0108/145539.860:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0108/145539.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0108/145539.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0108/145539.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0108/145539.867:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0108/145539.867:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0108/145539.867:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0108/145539.867:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0108/145539.909:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0108/145551.428:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0108/145551.429:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0108/145551.429:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0108/145551.429:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0108/145551.429:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0108/145551.429:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0108/145551.429:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0108/145610.378:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0108/145610.378:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0108/145610.379:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0108/145637.554:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0108/145730.574:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145736.399:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145736.424:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145740.705:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145746.494:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145746.496:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145942.583:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/145952.668:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/150148.188:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0108/150207.380:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
